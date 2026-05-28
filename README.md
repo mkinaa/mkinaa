@@ -27,7 +27,7 @@
 
 
 
-**Languages and Tools:**  
+**Lenguaje y herramientas:**  
 
 
 <code><img height="20" src="https://img.icons8.com/nolan/96/python.png"></code> Python
@@ -43,6 +43,6 @@
 <img align="center" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkinaa&count_private=true&theme=radical" />
 
 -----
-Credits: [mkinaa](https://github.com/mkinaa)
+Creditos: [mkinaa](https://github.com/mkinaa)
 
-Last Edited on: 20/06/2021
+Última edición el: 20/06/2021
