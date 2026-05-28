@@ -23,7 +23,7 @@
 - 👨🏽‍💻 Actualmente soy estudiante de tercer año de Ingeniería en Informática.
 - 🌱 Actualmente estoy explorando nuevas tecnologias y siempre abierto a nuevas experiencias. 
 - 💬 Preguntame lo que quieras, me encanta responder!
-- 📫 Email me at [jorge.moncada.morgado@gmail.com](mailto:jorge.moncada.morgado@gmail.com).
+- 📫 Envíame correo a [jorge.moncada.morgado@gmail.com](mailto:jorge.moncada.morgado@gmail.com).
 
 
 
