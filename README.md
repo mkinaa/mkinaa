@@ -40,7 +40,7 @@
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mkinaa&count_private=true&theme=radical" alt="mkinaa" />
 
-<img align="center" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkinaa&count_private=true&theme=radical" alt="mkinaa" />
+<img align="center" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkinaa&count_private=true&theme=radical" />
 
 -----
 Credits: [mkinaa](https://github.com/mkinaa)
