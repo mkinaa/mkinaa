@@ -45,4 +45,4 @@
 -----
 Creditos: [mkinaa](https://github.com/mkinaa)
 
-Última edición el: 20/06/2021
+Última edición el: 27/07/2026
